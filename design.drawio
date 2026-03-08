@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
-  <diagram name="第 1 页" id="ME0BEZbRcfH1JU6L-bgf">
-    <mxGraphModel dx="2066" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="design" id="ME0BEZbRcfH1JU6L-bgf">
+    <mxGraphModel dx="7863" dy="3934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="static_platform" vertex="1">
+          <mxGeometry height="1300" width="3800" x="-1300" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="trigger_entity" vertex="1">
+          <mxGeometry height="200" width="200" x="6590" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="attack_emitter" vertex="1">
+          <mxGeometry height="200" width="200" x="2130" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="bounce_entity" vertex="1">
+          <mxGeometry height="200" width="200" x="4720" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="door" vertex="1">
+          <mxGeometry height="200" width="200" x="7580" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="double_jump" vertex="1">
+          <mxGeometry height="200" width="200" x="10" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="moving_platform" vertex="1">
+          <mxGeometry height="200" width="480" x="-130" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="rotate_attack" vertex="1">
+          <mxGeometry height="200" width="200" x="6300" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="switch" vertex="1">
+          <mxGeometry height="200" width="200" x="6500" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="trap_attack" vertex="1">
+          <mxGeometry height="200" width="3770" x="2490" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="static_platform" vertex="1">
+          <mxGeometry height="1390" width="3800" x="2480" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="static_platform" vertex="1">
+          <mxGeometry height="2170" width="3800" x="6270" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="static_platform" vertex="1">
+          <mxGeometry height="200" width="2380" x="1630" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="air_wall" vertex="1">
+          <mxGeometry height="1200" width="120" x="-1300" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="rigid_attack" vertex="1">
+          <mxGeometry height="200" width="200" x="-1640" y="1400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
