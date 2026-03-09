@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="design" id="ME0BEZbRcfH1JU6L-bgf">
-    <mxGraphModel dx="7863" dy="3934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="7130" dy="3543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,11 +43,23 @@
         <mxCell id="g1kDtFZILGwnZx_mAuFo-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="static_platform" vertex="1">
           <mxGeometry height="200" width="2380" x="1630" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="g1kDtFZILGwnZx_mAuFo-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="air_wall" vertex="1">
-          <mxGeometry height="1200" width="120" x="-1300" y="100" as="geometry" />
+        <mxCell id="g1kDtFZILGwnZx_mAuFo-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;dashed=1;dashPattern=8 8;" value="air_wall" vertex="1">
+          <mxGeometry height="1000" width="100" x="-1300" y="300" as="geometry" />
         </mxCell>
         <mxCell id="g1kDtFZILGwnZx_mAuFo-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="rigid_attack" vertex="1">
           <mxGeometry height="200" width="200" x="-1640" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="lL4krNxBJ9UOg5qJCz2d-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;dashed=1;dashPattern=8 8;" value="archive_area" vertex="1">
+          <mxGeometry height="1000" width="200" x="1630" y="-730" as="geometry" />
+        </mxCell>
+        <mxCell id="lL4krNxBJ9UOg5qJCz2d-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="rotate_attack" vertex="1">
+          <mxGeometry height="200" width="200" x="-950" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lL4krNxBJ9UOg5qJCz2d-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="switch" vertex="1">
+          <mxGeometry height="200" width="200" x="-705" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lL4krNxBJ9UOg5qJCz2d-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" value="portal" vertex="1">
+          <mxGeometry height="200" width="200" x="-460" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
